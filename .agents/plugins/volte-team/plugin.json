@@ -1,0 +1,11 @@
+{
+  "name": "volte-team",
+  "displayName": "VOLTÉ Multi-Agent Team",
+  "description": "Специализированная команда агентов VOLTÉ: Developer, QA и UI/UX Auditor для интернет-магазина премиальной техники.",
+  "version": "1.0.0",
+  "suggestedPrompts": [
+    "Запустить проверку магазина через VOLTÉ QA",
+    "Провести аудит интерфейса через VOLTÉ UI/UX Auditor",
+    "Разработать новую функцию через VOLTÉ Developer"
+  ]
+}
